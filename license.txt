@@ -1,0 +1,25 @@
+-------------------------------------------------------------------------------
+|
+ 	Copyright (c) 2017 E-Apotek Online
+
+-------------------------------------------------------------------------------
+|
+ 	NAMA APLIKASI 	: E-Apotek Online
+|
+ 	MODEL  			: Back Office
+|
+ 	LICENSE 		: Reguler License
+|
+ 	VERSI 		 	: v 1.0
+
+--------------------------------------------------------------------------------
+|
+ 	Aplikasi ini dibuat dan dikembangkan oleh Anas Amu.
+|
+ 	Dilarang menyebarkan aplikasi ini tanpa ijin dari pembuat.
+|
+ 	untuk kritik, saran, info mengenai bugs atau pembaharuan aplikasi ini
+|
+ 	silahkan email di anasamu7@gmail.com
+
+--------------------------------------------------------------------------------

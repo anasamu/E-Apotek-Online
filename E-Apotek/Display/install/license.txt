@@ -1,0 +1,22 @@
+
+-------------------------------------------------------------------------------
+| 	Copyright (c) 2017 E-Apotek Online
+-------------------------------------------------------------------------------
+| 	NAMA APLIKASI 		: E-Apotek Online
+| 	VERSI 			: v 1.0
+-------------------------------------------------------------------------------
+| 	Informasi & Persyaratan
+-------------------------------------------------------------------------------
+|	E-Apotek Online merupakan aplikasi untuk mengelola data penjualan,
+|	pembelian, barang/ obat untuk apotek. serta membuat laporan penjualan, 
+|	pembelian secara cepat & tepat.
+|	
+|	Persyaratan Installasi E-Apotek Online :	
+|	- Apache 2.0+ (http://httpd.apache.org/)
+|	- PHP 5.5.9+ (http://php.net/)
+|	- MySQL 5.5.3+ (http://www.mysql.com/)
+--------------------------------------------------------------------------------
+| 	Dilarang menyebarkan aplikasi ini tanpa ijin dari pembuat.
+| 	untuk kritik, saran, info mengenai bugs atau pembaharuan aplikasi ini
+| 	silahkan email di anasamu7@gmail.com
+--------------------------------------------------------------------------------
